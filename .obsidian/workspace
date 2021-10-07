@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1_ds_r-basics/README.md.md",
+            "file": "1_ds_r-basics/README.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_ds_r-basics/README.md.md",
+                "file": "1_ds_r-basics/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,12 @@
   },
   "active": "46daf8fbc4965888",
   "lastOpenFiles": [
+    "1_ds_r-basics/README.md",
+    "README.md",
     "1_ds_r-basics/README.md.md",
+    "README.md.md",
     "1_ds_r-basics/code/Untitled.md",
     "1_ds_r-basics/notes/Untitled.md",
-    "README.md.md",
     "1_ds_r-basics/Untitled.md",
     "Untitled.md"
   ]

@@ -4,7 +4,7 @@ This repository contains my notes for the classes of the [Harvard Professional C
 # Organization
 The complete specialization contains 9 courses in total:
 
-1. [Data Science: R Basics](<./1_ds_r-basics/README.md>);
+1. [Data Science: R Basics](1_ds_r-basics/README.md);
 2. [Data Science: Visualization]();
 3. [Data Science: Probability]();
 4. [Data Science: Inference and Modeling]();
