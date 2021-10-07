@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "89b093ac28c8ce63",
+    "type": "split",
+    "children": [
+      {
+        "id": "46daf8fbc4965888",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1_ds_r-basics/README.md.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3509112a25b1ff30",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff88e19f6091132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cf2a93fbd4ea14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d67512a195c343d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d4d8012a4570a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6db31f6d0b4aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d0fa4364c87ab5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_ds_r-basics/README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "46daf8fbc4965888",
+  "lastOpenFiles": [
+    "1_ds_r-basics/README.md.md",
+    "1_ds_r-basics/code/Untitled.md",
+    "1_ds_r-basics/notes/Untitled.md",
+    "README.md.md",
+    "1_ds_r-basics/Untitled.md",
+    "Untitled.md"
+  ]
+}
